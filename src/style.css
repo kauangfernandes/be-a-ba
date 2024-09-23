@@ -1,1 +1,29 @@
+*{
+    font-family: Inter;
+}
 
+:root{
+    background: #242424;
+    color: #ffffffde;
+    color-scheme: dark;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+}
+
+#app{
+    height: -webkit-fill-avaliable;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+main{
+
+}
+
+.content{
+
+}
